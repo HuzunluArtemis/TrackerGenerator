@@ -4,6 +4,11 @@
 
 🇬🇧 A simple torrent tracker generator.
 
+[Exe for Windows (Newline)](https://github.com/HuzunluArtemis/TrackerGenerator/releases/latest/download/gettrackers_with_newline.exe)
+
+[Exe for Windows (Comma)](https://github.com/HuzunluArtemis/TrackerGenerator/releases/latest/download/gettrackers_with_comma.exe)
+
+
 ## License
 <details>
     <summary><b>Click Here For Details</b></summary>
